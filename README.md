@@ -1,5 +1,5 @@
 # Art's game of life
-![GitHub Repo stars](https://img.shields.io/github/stars/Art-go/Game-of-life?label=Нравится стольки людям: &style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/Art-go/Game-of-life?label=Нравится%20стольки%20людям:%20&style=flat-square)
 
 Релаизовано:
 - Сам клеточный автомат
